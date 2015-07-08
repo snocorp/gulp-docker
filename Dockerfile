@@ -1,7 +1,7 @@
 #
 # Gulp docker image
 #
-# http://github.com/nivaha/gulp-docker
+# http://github.com/snocorp/gulp-docker
 #
 
 FROM node:latest
